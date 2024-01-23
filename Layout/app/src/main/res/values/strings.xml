@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Layout</string>
+    <string name="b1">B1</string>
+    <string name="b2">B2</string>
+    <string name="text_in_center">Text in center</string>
+    <string name="b3">B3</string>
+    <string name="b4">B4</string>
 </resources>

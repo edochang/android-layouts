@@ -14,6 +14,8 @@
         </activity>
         <activity android:name=".MainActivityLinear">
         </activity>
+        <activity android:name=".AiActivity">
+        </activity>
     </application>
 
 </manifest>
